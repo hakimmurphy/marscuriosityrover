@@ -10,7 +10,6 @@ const routes = [
     {path: '/mahli', name: 'MAHLI', component: ()=>import('../views/MAHLI.vue')},
     {path: '/rhaz', name: 'RHAZ', component: ()=>import('../views/RHAZ.vue')},
     {path: '/marscuriosityrover', name: 'marscuriosityrover', component: ()=>import('../views/RoverShow.vue')}
-//     {path: '/marscuriosityrover/:id', component: ()=>import('../views/RoverShow.vue')}
 ]
 
 const router = createRouter({

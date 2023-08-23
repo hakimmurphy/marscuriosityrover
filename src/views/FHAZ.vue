@@ -10,7 +10,7 @@
 </template>
 
 <script>
-    import { ref, reactive, computed} from 'vue'
+    import { ref } from 'vue'
     export default {
         setup() {
             const data = ref({})

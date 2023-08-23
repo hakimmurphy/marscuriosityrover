@@ -11,8 +11,3 @@
   import TheNavigation from './components/TheNavigation.vue';
 </script>
 
-<style scoped>
-  .container {
-    background-color: #3C486B;
-  }
-</style>
