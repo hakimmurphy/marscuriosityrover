@@ -1,0 +1,34 @@
+{
+    "cameras": [
+        {
+            "name" : "FHAZ",
+            "id" : 1,
+            "image" : "fhaz.jpg"
+        },
+        {
+            "name" : "NAVCAM",
+            "id" : 2,
+            "image" : "navcams.jpg"
+        },
+        {
+            "name" : "MAST",
+            "id" : 3,
+            "image" : "mast.jpg"
+        },
+        {
+            "name" : "CHEMCAM",
+            "id" : 4,
+            "image" : "chemcam.jpg"
+        },
+        {
+            "name" : "MAHLI",
+            "id" : 5,
+            "image" : "mahli.jpg"
+        },
+        {
+            "name" : "RHAZ",
+            "id" : 6,
+            "image" : "rhaz.jpg"
+        }   
+    ]
+}
