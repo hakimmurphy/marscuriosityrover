@@ -74,5 +74,12 @@ See NASA’s page for parameters like earth_date and camera.
 ## 🙏 Acknowledgments
 - NASA Open APIs: Mars Rover Photos. Thanks for making space data accessible.
 
+---
+
+## 📄 License
+MIT
+
+---
+
 ## 🗣️ Author
 Hakim Murphy
